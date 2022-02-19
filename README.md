@@ -9,5 +9,6 @@ then I create a local branch
 git checkout -b mylocal
 
 on mylocal
+checkout on origin/mylocal
 
 
